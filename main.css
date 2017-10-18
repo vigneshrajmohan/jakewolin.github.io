@@ -18,11 +18,18 @@ ol {
   color: orange;
   font-size: 20px;
 }
+li{
+  color: orange;
+}
 
 h2 {
   color: orange;
 }
-table{
+
+h3 {
+  color: orange;
+}
+table, th, td{
   color: orange;
   border: 1px solid black;
 }
